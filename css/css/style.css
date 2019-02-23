@@ -1,0 +1,20 @@
+body {
+        background-image: url("http://i.stack.imgur.com/XcZ1s.png");
+                  
+     }
+
+.estilo
+{
+	width: 13%;
+	height: 10%;
+	margin: 10% 0 0 40%;
+	background: red;
+	text-align: center;
+
+}
+
+h1{
+	text-align: center;
+	margin-top: 80px;
+	color: white;
+}
